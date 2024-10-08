@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ae111n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning html , css , javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in front end development
 - 📫 possible to reach me at "bouguedraaymen@gmail.com"
 
 <!---
