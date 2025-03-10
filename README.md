@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ae111n
-- 👀 I’m interested in front end development
+- 👀 I’m interested in web development
 - 📫 possible to reach me at "bouguedraaymen@gmail.com"
 
 <!---
